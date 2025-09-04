@@ -1,3 +1,4 @@
-import os
+# waiting time for the user
 
-os.remove("C:/Windows/System32/") 
+for i in range(1, 51):
+    print(i)
