@@ -1,1 +1,3 @@
-creating merge conflicts
+# REAME
+
+Repo created for MLSC Git-Github-Workshop
